@@ -1,0 +1,33 @@
+_repo: Memoirs-of-Mistral_56040
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Maud, Constance Elizabeth
+    gutenberg_agent_id: '48640'
+    url: http://www.gutenberg.org/2009/agents/48640
+creator:
+  author:
+    agent_name: Mistral, Frédéric
+    aliases:
+    - Mistral, Joseph Etienne Frédéric
+    - Mistral, Frederic
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '2302'
+    url: http://www.gutenberg.org/2009/agents/2302
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Frédéric_Mistral
+    - http://en.wikipedia.org/wiki/Frédéric_Mistral
+description: ''
+gutenberg_issued: '2017-11-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Memoirs of Mistral
+url: http://www.gutenberg.org/ebooks/56040
