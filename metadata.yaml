@@ -1,10 +1,13 @@
 _repo: Memoirs-of-Mistral_56040
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Maud, Constance Elizabeth
     gutenberg_agent_id: '48640'
     url: http://www.gutenberg.org/2009/agents/48640
+covers:
+- cover_type: archival
+  image_path: 56040-h/images/cover.jpg
 creator:
   author:
     agent_name: Mistral, Frédéric
@@ -19,6 +22,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Frédéric_Mistral
     - http://en.wikipedia.org/wiki/Frédéric_Mistral
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56040#Memoirs-of-Mistral
 gutenberg_issued: '2017-11-23'
 gutenberg_type: Text
 identifiers:
